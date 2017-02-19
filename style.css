@@ -1,0 +1,14 @@
+body{
+    height: 100%;
+    width: 100%;
+    color:red;
+    text-align: center;
+
+}
+.main{
+    margin: 0 auto;
+    height: 200px;
+}
+audio{
+    display: none;
+}
